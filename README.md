@@ -1,2 +1,2 @@
 # go-mongodb
-Goy ODM framework for MongoDB
+Go ODM framework for MongoDB
